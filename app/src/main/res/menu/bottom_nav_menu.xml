@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:id="@+id/Home" android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Schedule" android:id="@+id/Schedule" android:icon="@drawable/ic_baseline_schedule_24"/>
+    <item android:title="History" android:id="@+id/Histroy" android:icon="@drawable/ic_baseline_list_alt_24"/>
+    <item android:title="Profile" android:id="@+id/Profile" android:icon="@drawable/ic_baseline_account_circle_24"/>
+</menu>
