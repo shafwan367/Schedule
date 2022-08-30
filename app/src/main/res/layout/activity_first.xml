@@ -4,6 +4,52 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".First">
+    tools:context=".First"
+    android:layout_gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:gravity="center">
+
+        <RelativeLayout
+            android:id="@+id/welecome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <ImageView
+
+                android:layout_width="620.72px"
+                android:layout_height="523.73px"
+                android:src="@drawable/undraw_welcome_re_h3d9"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/textWelecome"
+            android:layout_marginTop="55.2px"
+            android:layout_below="@+id/welecome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="Welcome to Schedule App \nfor your day"
+                android:textColor="@color/abu_abu"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_below="@id/textWelecome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="38px"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/btn_start"
+                android:layout_width="550px"
+                android:layout_height="110px"
+                android:src="@drawable/group_18" />
+        </RelativeLayout>
+    </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
