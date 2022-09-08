@@ -18,6 +18,7 @@
             android:padding="16.5dp"
             android:orientation="vertical">
             <androidx.cardview.widget.CardView
+                android:id="@+id/cardView"
                 android:layout_width="match_parent"
                 android:layout_height="130dp"
                 app:cardBackgroundColor="@color/biru1"
@@ -100,6 +101,7 @@
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
+
                 android:layout_width="match_parent"
                 android:layout_height="130dp"
                 app:cardBackgroundColor="@color/orange"
