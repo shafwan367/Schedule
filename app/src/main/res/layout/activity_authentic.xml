@@ -58,6 +58,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.077" />
 
+
     <GridLayout
         android:id="@+id/gridLayout"
         android:layout_width="wrap_content"
@@ -72,6 +73,102 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_signUp"
         app:layout_constraintVertical_bias="0.072">
 
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="45.5dp"
+            android:layout_height="45dp"
+            app:strokeWidth="0.5dp"
+            app:strokeColor="@color/black"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="4dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="casual"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:imeOptions="actionNext"
+                    android:importantForAutofill="no"
+                    android:textColor="@color/black"
+                    tools:ignore="LabelFor"/>
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="45.5dp"
+            android:layout_height="45dp"
+            app:strokeWidth="0.5dp"
+            app:strokeColor="@color/black"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="4dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="casual"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:imeOptions="actionNext"
+                    android:importantForAutofill="no"
+                    android:textColor="@color/black"
+                    tools:ignore="LabelFor"/>
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="45.5dp"
+            android:layout_height="45dp"
+            app:strokeWidth="0.5dp"
+            app:strokeColor="@color/black"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="4dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="casual"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:imeOptions="actionNext"
+                    android:importantForAutofill="no"
+                    android:textColor="@color/black"
+                    tools:ignore="LabelFor"/>
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="45.5dp"
+            android:layout_height="45dp"
+            app:strokeWidth="0.5dp"
+            app:strokeColor="@color/black"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="4dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="casual"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:imeOptions="actionNext"
+                    android:importantForAutofill="no"
+                    android:textColor="@color/black"
+                    tools:ignore="LabelFor"/>
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
 
 
     </GridLayout>
@@ -92,10 +189,10 @@
         app:layout_constraintVertical_bias="0.077" />
 
     <TextView
-        android:id="@+id/time"
+        android:id="@+id/authTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="00:50"
+        android:text="0"
         android:textColor="@color/abu_abu"
         android:textSize="20px"
         android:textStyle="bold"

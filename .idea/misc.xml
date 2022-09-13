@@ -7,19 +7,25 @@
         <entry key="..\:/Users/shfwan/AndroidStudioProjects/ScheduleApp/app/src/main/res/layout/activity_main.xml" value="0.22735507246376813" />
         <entry key="..\:/Users/shfwan/AndroidStudioProjects/ScheduleApp/app/src/main/res/layout/activity_nav.xml" value="0.4" />
         <entry key="..\:/Users/shfwan/AndroidStudioProjects/ScheduleApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/drawable/content_popup_schedule_create.xml" value="0.155" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.137" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.155" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1235" />
-        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_authentic.xml" value="0.264" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_authentic.xml" value="0.536" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_first.xml" value="0.4" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_histroy_read_delete.xml" value="0.4" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_login.xml" value="0.536" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_schedule_calendar.xml" value="0.4" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_schedule_edit.xml" value="0.4" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/content_profile_popup_image.xml" value="0.264" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/fragment_histroy.xml" value="0.37962962962962965" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/fragment_profile.xml" value="0.5207253886010362" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/fragment_schedule.xml" value="0.264" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/schedule_calendar_pop_up.xml" value="0.3263888888888889" />
         <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/schedule_item.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/shfwan/StudioProjects/Schedule/app/src/main/res/layout/schedule_item_titile_create.xml" value="0.24791666666666667" />
       </map>
     </option>
   </component>
